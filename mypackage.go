@@ -1,4 +1,4 @@
-package boh_test_go
+package mypkg
 
 func Hello() string (
 	return "hello world"
