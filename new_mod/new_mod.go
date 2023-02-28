@@ -1,4 +1,4 @@
-package my_module
+package new_mod
 
 func Hello() string {
 	return "Hello, You!"
