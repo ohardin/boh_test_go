@@ -1,4 +1,4 @@
-package new_mod
+package my_module
 
 import "fmt"
 
